@@ -1,4 +1,6 @@
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=zrtsky&count_private=true&theme=onedark&show_icons=true&count_private=true)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=zrtsky&count_private=true&theme=onedark&show_icons=true&hide=prs,contribs,stars)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zrtsky&layout=compact)](https://github.com/anuraghazra/github-readme-stats&theme=onedark)
 
 <!--
 **ZRTSKY/ZRTSKY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
